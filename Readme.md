@@ -1,4 +1,4 @@
-###A command line to track the slots for the covid 19 vaccination.
+## A command line to track the slots for the covid 19 vaccination.
 
 Steps
 1. node bin/index.js 
